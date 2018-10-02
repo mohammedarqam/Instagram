@@ -1,0 +1,7 @@
+{
+  "name": "insta",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
